@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Sisimangi</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="absensi_sman_garawangi">ABSENSI SMAN GARAWANGI</string>
+
+
+
+    <!-- PETUNJUK SLIDER -->
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">TEPAT WAKTU</string>
+    <string name="slide_1_desc">Rasakan Berbagai Kuliner yang Akan Memanjakan Lidahmu</string>
+
+    <string name="slide_2_title">DISIPLIN</string>
+    <string name="slide_2_desc">Temukan Hotel yang Nyaman Untuk Istirahat Perjalananmu</string>
+
+    <string name="slide_3_title">KEMUDAHAN</string>
+    <string name="slide_3_desc">Destinasi Menarik Menantimu. Segera Pilih Destinasi Wisatamu</string>
+
+    <string name="slide_4_title">PINDAI KODE QR</string>
+    <string name="slide_4_desc">Melakukan presensi semudah memindai Kode QR</string>
+
+    <!-- PENGINGAT HARIAN -->
+    <string name="msgDailyRemain">Selamat pagi,</string>
+    <string name="msgDailyRemainSore">Selamat Sore,</string>
+
+    <string name="daily_reminder_message">Absensi pagi 15 menit lagi dimulai, jangan sampai telat ya</string>
+    <string name="sore_reminder_message">Absensi sore 15 menit lagi dimulai, jangan sampai telat ya</string>
+
+
+
+
+</resources>
